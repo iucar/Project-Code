@@ -1,17 +1,17 @@
 # Project-Code
 
-The code files in this repository are some of files of my final year university project on teleoperation.
+The code files in this repository are some of files of my final year university project on robot teleoperation.
 
 The aim of the project was to create a proof of concept for using data from a vision sensor to detect hand gestures
 performed by a human operator to control different types of robots in a simulated environment in real-time. As part
 of the project different AI methods were analysed and compared to find the most suitable one for this application.
 
-The design of the project had a few key parts
+The design of the project had a few key parts:
   - data acquisition
   - feature extraction
   - gesture recognition
   - robot control logic
-  - Integration with CoppeliaSim environment
+  - integration with CoppeliaSim environment
 
 The code files in this repository are part of the files used for the feature extraction and gesture recognition steps.
 
